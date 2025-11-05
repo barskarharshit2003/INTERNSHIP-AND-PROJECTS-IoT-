@@ -12,10 +12,3 @@ Key Features:
 4. Centralized Monitoring Dashboard: Deployed a real-time web dashboard (Ngrok-based) for remote visualization and control of all nodes.
 5. Solar-Powered Car Module: Integrated Arduino Uno R4 with solar charging and ignition control via MOSFET, connected to the same dashboard.
 6. Data Analytics: Processed sensor data for early fault detection, power optimization, and risk management through data-driven decision logic.
-
-Schematic image of ESP network
-
-
-Code and design files: Folder name — “SWACCH_IO_Internship”
-
-
