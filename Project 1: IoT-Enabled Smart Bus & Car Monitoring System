@@ -1,0 +1,21 @@
+PROJECT : IoT-ENABLED SMART BUS & CAR MONITORING SYSTEM
+**(SWACCH.IO Internship | June – July 2025)**
+
+Tech Stack: ESP32, ESP32-CAM, MQTT, EasyEDA, BME280, PMS7003, INA219, CW-019 Relay, GPS, Ngrok, HTML Dashboard
+
+A multi-node IoT architecture built to monitor air quality, temperature, battery voltage, and GPS, with centralized control and image-based fault detection.
+
+Key Features:
+1. Distributed ESP32 Network: 5 interconnected nodes using MQTT protocol for data sharing and system control.
+2. Camera Node (ESP32-CAM): Captures images periodically for visual fault/anomaly detection.
+3. Custom PCB Design: Designed in EasyEDA for efficient sensor-microcontroller interfacing and low-noise signal paths.
+4. Centralized Monitoring Dashboard: Deployed a real-time web dashboard (Ngrok-based) for remote visualization and control of all nodes.
+5. Solar-Powered Car Module: Integrated Arduino Uno R4 with solar charging and ignition control via MOSFET, connected to the same dashboard.
+6. Data Analytics: Processed sensor data for early fault detection, power optimization, and risk management through data-driven decision logic.
+
+Schematic image of ESP network
+
+
+Code and design files: Folder name — “SWACCH_IO_Internship”
+
+
